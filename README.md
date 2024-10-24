@@ -11,7 +11,6 @@ The **Happy Halloween Card Game** is a fun and interactive card matching game de
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Features
 
